@@ -129,3 +129,6 @@ const makeAllPlays = () => {
 
    //button switching feature 
    {dropdown}
+   {button}
+
+
