@@ -125,3 +125,6 @@ const makeAllPlays = () => {
 
 
    })
+
+
+   //button switching feature 
